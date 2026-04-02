@@ -1,0 +1,22 @@
+{
+  "name": "cod-reducere-dr-max",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere Dr. Max de pe shopilo.ro",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-dr-max",
+    "voucher-dr-max",
+    "cupon-dr-max",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-ro",
+  "license": "MIT",
+  "homepage": "https://shopilo.ro/magazin/drmax.ro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-ro/cod-reducere-dr-max.git"
+  }
+}
